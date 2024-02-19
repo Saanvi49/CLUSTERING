@@ -42,6 +42,4 @@ The following tasks are performed in the assignment:
 * Different preprocessing techniques such as normalization, transformation, and PCA are also applied to the data before clustering.
 * Ensure that you have sufficient computational resources as some operations, especially visualization of high-dimensional data, may require significant computational power.
 
-## Author
-Ananya Gupta
 
